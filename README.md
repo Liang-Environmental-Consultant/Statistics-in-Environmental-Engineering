@@ -15,3 +15,7 @@ Applied Environmental Statistics are described and practiced using R code.
        alpha levels and p-values
        1-sided and 2-sided tests
        permutation tests
+  Section 3
+      Confidence, Prediction and Tolerance Intervals
+        computing confidence intervals
+        prediction and tolerance intervals
