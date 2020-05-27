@@ -19,3 +19,9 @@ Applied Environmental Statistics are described and practiced using R code.
       Confidence, Prediction and Tolerance Intervals
         computing confidence intervals
         prediction and tolerance intervals
+  Section 4 
+      Testing Count Data, Paired Data, and Exceedance of Standards
+        testing proportions classified in categories
+        testing differencies between paired values
+        testing against a numerical standard
+   
