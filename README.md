@@ -24,4 +24,11 @@ Applied Environmental Statistics are described and practiced using R code.
         testing proportions classified in categories
         testing differencies between paired values
         testing against a numerical standard
-   
+  Section 5 
+      Testing Differences in Groups of Data
+        comparing two groups of data
+        comparing three and more groups of data
+        how multiple comparison tests work
+  Section 6
+      Testing Differences in Precision (or Variance)
+        testing differences in precision/variance
